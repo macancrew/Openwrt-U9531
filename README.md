@@ -30,3 +30,5 @@ saat ini saya gunakan openwrt-19.07.10-ar71xx-generic-tl-wr842n-v3 dengan modem 
 hasilnya lumayan bagus 
 
 <img src="fibocom 850L.jpg">
+
+<img src="mod.jpg">
