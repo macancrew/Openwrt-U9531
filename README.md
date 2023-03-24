@@ -1,6 +1,8 @@
 # Openwrt-U9531
 Openwrt U9531-01 - Unielec
 
+<img src="u9531-01.jpg">
+
 detail : http://www.unielecinc.com/q/news/cn/p/product/detail.html?qd_guid=EENzXiDhJT
 
 openwrt router dengan bawaan Chaos Chalmer 15
@@ -26,3 +28,5 @@ openwrt-19.07.10-ar71xx-generic-tl-wr842n-v3
 semua file sudah saya upload
 saat ini saya gunakan openwrt-19.07.10-ar71xx-generic-tl-wr842n-v3 dengan modem Fibocom L850-GL
 hasilnya lumayan bagus 
+
+<img src="fibocom 850L.jpg">
