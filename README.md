@@ -32,3 +32,10 @@ hasilnya lumayan bagus
 <img src="fibocom 850L.jpg">
 
 <img src="mod.jpg">
+
+
+instalasi modemnya menggunakan modemmanager <br>
+dengan rujukan dari <br>
+https://radenku.com/cara-setting-modemmanager-di-openwrt/
+
+<img src="mod2.jpg">
